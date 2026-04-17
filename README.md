@@ -101,7 +101,8 @@ These are the kinds of questions businesses regularly ask, and this dashboard is
 
 ## Files
 
-- `dashboard/Adventure Time Analysis Dashboard.xlsm` — main dashboard workbook
+- `Dashboard/Adventure Time Analysis Dashboard.xlsm` — main dashboard workbook
+- `Dataset/Adventure Time Analysis` — Dataset
 
 
 ## Contact
