@@ -9,6 +9,10 @@
   <img src="https://img.shields.io/badge/File%20Type-.xlsm-0F9D58?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-Business%20Analytics-1F6FEB?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Use%20Case-Interactive%20Dashboard-F59E0B?style=for-the-badge" />
+
+
+Dashboard<img width="1902" height="829" alt="image" src="https://github.com/user-attachments/assets/312ff06e-ab55-45df-9cae-d1203e410f0b" />
+
 </p>
 
 ## Overview
