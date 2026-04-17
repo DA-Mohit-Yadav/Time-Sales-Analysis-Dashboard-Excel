@@ -74,6 +74,7 @@ The Excel workbook contains the following sheets:
 
 ## Tools & Techniques Used
 
+- Power Pivot
 - Microsoft Excel
 - Pivot Tables
 - Pivot Charts
